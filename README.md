@@ -7,6 +7,8 @@ core php with CRUD,bootstrap based HTML template. Secure Authentication Paginati
 <li>Pagination</li>
 <li>Filters</li>
   </ul>
+  <br>
+  <br>
  <b>username</b> : superadmin <b>password</b> : superadmin
 
 
