@@ -16,11 +16,15 @@ Follow me ⤵️
 LinkedIn: https://www.linkedin.com/in/shamim-imtiyaz-11a3406b/
 <br>
 Instagram: https://www.instagram.com/imtiyaz_15/?hl=en
-<b>Dashboard</b>
+<b>Dashboard</b><br>
+
 ![](dash.png)
-<b>Customers</b>
+<b>Customers</b><br>
+
 ![](customers.png)
-<b>Add Customers</b>
+<b>Add Customers</b><br>
+
 ![](add.png)
-<b>Admin users</b>
+<b>Admin users</b><br>
+
 ![](user.png)
