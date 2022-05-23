@@ -8,10 +8,9 @@ core php with CRUD,bootstrap based HTML template. Secure Authentication Paginati
 <li>Filters</li>
   </ul>
   
- <b>username</b> : superadmin <b>password</b> : superadmin
+ <b>Username</b> : superadmin <b>Password</b> : superadmin
 
 <br>
-  <br>
 Follow me ⤵️
 <br>
 LinkedIn: https://www.linkedin.com/in/shamim-imtiyaz-11a3406b/
